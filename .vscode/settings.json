@@ -9,5 +9,8 @@
         "Log": {
             "parser": "markdown"
         }
-    }
+    },
+    "rust-analyzer.linkedProjects": [
+        ".\\leetcode_rust\\Cargo.toml",
+    ]
 }
