@@ -8,8 +8,8 @@ mod two_sum;
 mod roman_to_integer;
 //#[path ="./21_merge-two-sorted-lists.rs"]
 //mod merge_two_sorted_lists;
-#[path ="./66.plus-one.rs"]
-mod plus_one;
+#[path ="./69.sqrt-x.rs"]
+mod my_sqrt;
 
 
 #[cfg(test)]
